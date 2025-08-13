@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ts-node-maintained": "^10.9.6"
+  }
+}
